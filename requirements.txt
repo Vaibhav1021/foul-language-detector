@@ -1,0 +1,5 @@
+transformers
+torch
+fuzzywuzzy
+python-Levenshtein
+streamlit
