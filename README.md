@@ -1,0 +1,1 @@
+# foul-language-detector
